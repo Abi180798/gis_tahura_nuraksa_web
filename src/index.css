@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 350px !important;
+  /* line-height: 160px; */
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+.ant-carousel .slick-dots li button {
+  background: black !important;
+  height: 20px !important;
+  width: 20px !important;
+  border-radius: 5px !important;
+  border-color: white !important;
+  border-style: solid !important;
+}
+.ant-menu {
+  background: #2ed573 !important;
+}
+.ant-menu-item a:only-child{
+  color: white !important;
+}
+.ant-menu-item a:only-child{
+  color: white !important;
+}
+.ant-menu-item-selected{
+  color: white !important;
+}
+.ant-layout-content{
+  background: #909499;
+}
+.ant-layout-footer{
+  background: #909499 !important;
+}
+#navbar{
+  background: #2ed573;
+}
+#navbar h1{
+  color: white;
+}
